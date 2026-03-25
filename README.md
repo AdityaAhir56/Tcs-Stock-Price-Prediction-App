@@ -94,11 +94,8 @@ The project includes a fully interactive web application built using Streamlit.
 
 ## 🌐 Live Demo
 
-👉 *(Add your Streamlit link here after deployment)*  
-Example:
-```
-https://your-app-name.streamlit.app
-```
+🚀 Try the app here:
+👉 https://tcs-stock-price-prediction-app-tssmqyqznif3xudoworwrn.streamlit.app/
 
 ---
 
