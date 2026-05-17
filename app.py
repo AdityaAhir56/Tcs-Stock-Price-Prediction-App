@@ -22,7 +22,7 @@ st.set_page_config(page_title="TCS Predictor", layout="wide")
 # ---------------- HEADER ----------------
 st.markdown("""
 # 📈 TCS Stock Price Predictor  
-### 🚀 Real-Time AI-Based Forecasting System
+### 🚀 ML-Based Forecasting System
 """)
 
 st.markdown("---")
